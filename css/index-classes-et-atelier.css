@@ -1,0 +1,45 @@
+div.nav-atelier .navbar-default
+{
+	margin: -30px auto 20px auto;
+	width: 67%;
+}
+
+div.nav-atelier .navbar-default .navbar-nav > li > a
+{
+	
+}
+
+div.row section.body h3
+{
+	background-color: orange;
+	color: white;
+	padding: 5px;
+	font-size: 1.3em;
+	margin-top: 0px;
+}
+
+div.row section.body h4
+{
+	text-align: center;
+	font-size: 1.1em;
+}
+
+div.row section.body img
+{
+	float: left;
+	margin-right: 10px;
+}
+
+div.row section.body ul li a
+{
+	margin-left: 40px;
+	color: fuchsia;
+}
+
+div.row aside
+{
+	background-color: orange;
+	padding: 5px;
+	height: auto;
+	color: black;
+}
