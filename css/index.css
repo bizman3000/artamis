@@ -1,0 +1,25 @@
+section.body
+{
+	border: 1px solid red;
+}
+
+ul.thumbnails
+{
+	list-style-type: none;
+}
+
+ul.thumbnails li div.caption
+{
+	font-size: 0.9em;
+	height: 200px;
+}
+
+ul.thumbnails li div.caption h3
+{
+	font-size: 1.4em;
+}
+
+ul.thumbnails li div.caption p
+{
+	text-align: justify;	
+}

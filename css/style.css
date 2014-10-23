@@ -1,0 +1,57 @@
+body
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+div.row
+{
+	margin-top: 10px;
+}
+
+div.container
+{
+	box-shadow: 1px 1px 10px #c8c8c8;
+	width: 1050px;
+}
+
+nav.navbar ul li a
+{
+	font-size: 0.87em;
+}
+
+section.second-header
+{
+	background: url(../img/back_menu_second.png);
+	margin-top: -30px;
+	height: 7em;
+	padding-top: 10px;
+}
+
+section.second-header ul
+{
+	list-style-type: circle;
+}
+
+section.second-header ul li a
+{
+	color: white;
+}
+
+div.row aside
+{
+	padding-left: 15px;
+	color: white;
+	height: 300px;
+}
+
+section.body
+{
+
+}
+
+section.foot
+{
+	text-align: center;
+	font-size: 0.8em;
+}

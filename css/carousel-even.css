@@ -1,0 +1,67 @@
+#transition-timer-carousel-article
+{
+    margin-top: -10px;
+}
+
+#transition-timer-carousel-article .carousel-inner .item .carousel-caption-header
+{
+    text-align: center;
+}
+
+#transition-timer-carousel-article .carousel-inner .item
+{
+    height: 250px;
+}
+
+#transition-timer-carousel-article ol.carousel-indicators li
+{
+    border: 1px solid black;
+}
+
+#transition-timer-carousel-article ol.carousel-indicators li.active
+{
+    background-color: black;
+}
+
+#transition-timer-carousel-article .carousel-inner .item img
+{
+    width: 100px;
+    margin: 10px;
+    float: left;
+}
+
+#transition-timer-carousel-article .carousel-inner .item a.btn-blog 
+{
+    color: #ffffff;
+    background-color: #37d980;
+    border-color: #37d980;
+    border-radius: 0;
+    position: absolute;
+    bottom: 50px;
+    right: 95px;
+}
+
+#transition-timer-carousel-article .carousel-inner .item a.btn-blog:hover,
+#transition-timer-carousel-article .carousel-inner .item a.btn-blog:focus,
+#transition-timer-carousel-article .carousel-inner .item a.btn-blog:active
+{
+    color: white;
+    background-color: #34ca78;
+    border-color: #34ca78;
+}
+
+#transition-timer-carousel-article .carousel-caption .carousel-caption-header 
+{
+	margin-top: 10px;
+	font-size: 1.9em;
+}
+
+#transition-timer-carousel-article .carousel-indicators 
+{
+	margin-bottom: 5px;
+}
+
+#transition-timer-carousel-article .carousel-control 
+{
+	z-index: 11;
+}

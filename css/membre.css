@@ -1,0 +1,14 @@
+section.body h4
+{
+	color: MediumVioletRed;
+}
+
+section.body table
+{
+	margin: 30px;
+}
+
+section.body td
+{
+	padding-right: 20px;
+}
