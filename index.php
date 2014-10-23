@@ -11,7 +11,7 @@
 		<link href="css/carousel.css" rel="stylesheet">
 		<link href="css/carousel-even.css" rel="stylesheet">
 	</head>
-	<body>Coucou
+	<body>
 		<div class="container">
 			<?php include('fr/base/header.php'); ?>
 			<?php include('fr/base/header-nav.php'); ?>
