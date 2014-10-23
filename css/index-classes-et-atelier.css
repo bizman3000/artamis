@@ -24,12 +24,6 @@ div.row section.body h4
 	font-size: 1.1em;
 }
 
-div.row section.body img
-{
-	float: left;
-	margin-right: 10px;
-}
-
 div.row section.body ul li a
 {
 	margin-left: 40px;

@@ -8,6 +8,7 @@
 	<head>
 		<?php include($path.$lang.'base/head.php'); ?>
 		<link href="<?php echo $path; ?>css/index-classes-et-atelier.css" rel="stylesheet">
+		<link href="<?php echo $path; ?>css/classes-et-atelier.css" rel="stylesheet">
 	</head>
 	<body>
 		<div class="container">
