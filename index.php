@@ -2,7 +2,6 @@
 	$path = './';
 	$lang = 'fr/';
 ?>
-Coucou
 <!DOCTYPE html>
 <html>
 	<head>
